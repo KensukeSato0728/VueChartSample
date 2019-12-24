@@ -13,5 +13,8 @@
   "dependencies": {
     "nuxt": "^2.0.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "chart.js": "^2.9.3",
+    "vue-chartjs": "^3.5.0"
+  }
 }
